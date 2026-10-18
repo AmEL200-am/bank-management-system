@@ -1,3 +1,13 @@
+
+# Executable files
 *.exe
+*.out
+
+# Object files
 *.o
+
+# IDE files
 .vscode/
+
+# Temporary files
+*.tmp
